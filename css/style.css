@@ -30,6 +30,36 @@
     font-size: 11px;
 }
 
+.tabe2{
+    width: 200px
+}
+
+.tabe{
+    width: 400px;
+}
+
+.row{
+    background-color: rgba(0, 217, 255, 0.61);
+}
+
+.row2{
+    background-color: rgba(0, 132, 255, 0.507);
+}
+
+.comp{
+    color:white;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.graf{
+    color:white;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
 .container{
     width: 70%;
     margin: 0 auto;
