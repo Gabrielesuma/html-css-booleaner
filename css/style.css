@@ -1,0 +1,36 @@
+.sfondo{
+    background-image: url("../img/pattern.png");
+    background-color: rgb(6, 6, 238);
+    background-size:30%;
+    height: 100px;
+}
+
+.logob{
+    height: 50px;
+}
+
+.data{
+    color: grey;
+}
+
+.bool{
+    color:aqua;
+}
+
+.tim1{
+    max-width: 45%;
+}
+
+.tim2{
+    max-width: 39%;
+    height: 283px;
+}
+
+.photo{
+    font-size: 11px;
+}
+
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
